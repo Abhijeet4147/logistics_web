@@ -42,7 +42,7 @@ const Hero = () => {
       >
         <h1 className="text-5xl md:text-7xl font-bold leading-tight drop-shadow-md">
           East-In Marine <br />
-          <span className="text-blue-400"> Freight </span>
+          <span className="text-blue-400"> Freight PVT LTD.</span>
         </h1>
         <p className="mt-4 text-lg md:text-2xl text-gray-300 drop-shadow-md">
           Dedicated Marine Logistics & Freight Forwader for Multi Modes Freight Options for Air,Sea & Road and Last Mile Delivery
