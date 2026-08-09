@@ -10,7 +10,7 @@ const Warehouse = () => {
         "C/O East-In Marine Freight",
         "Plot No. D3, Sect 14, CBD Belapur",
         "Navi Mumbai -400614",
-        "Mr. Arun : + 91 7021821956"
+        "Mr.Roshan : +91 8169452629"
       ],
       image: "https://images.unsplash.com/photo-1587474260584-136574528ed5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
@@ -29,7 +29,12 @@ const Warehouse = () => {
       details: [
         "MV Vessel Name",
         "East-In Marine Freight",
-        "DMC DUBAI -UAE PO BOX 119034",
+        "Ship Spares in Transit",
+        "C/O SteadFast Cargo Services LLC",
+        "Al Qusais Industrial area-3",
+        "Abulhoul printing press Building",
+        "Plot No 39, Warehouse No-6",
+        "Dubai-United Arab Emirates",
       ],
       image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
@@ -48,9 +53,9 @@ const Warehouse = () => {
       details: [
         "MV Vessel Name",
         "East-In Marine Freight",
-        "95 AIRPORT CARGO RD, #02-224",
-        "SATS AIRFREIGHT TERMINAL 2,",
-        "SINGAPORE 819461"
+        "C/O CARGOSAVVY PTE. LTD.",
+        "#01-33, Cargo Agents Building C",
+        "Singapore – 819466",
       ],
       image: "https://images.unsplash.com/photo-1565967511849-76a60a516170?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },

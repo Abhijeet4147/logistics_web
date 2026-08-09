@@ -20,7 +20,7 @@ const Footer = () => {
     contact: [
       { text: 'operations@east-in.com', path: 'mailto:operations@east-in.com', icon: '📧' },
       { text: '+91 7021821956', path: 'tel:+91 7021821956', icon: '📞' },
-      { text: 'East-In Marine Freight Office G -1 , Plot No D3, Sect 14,CBD Belapur, Navi Mumbai 400614 ', path: 'https://maps.app.goo.gl/hc5m9sEusrPtciQJA', icon: '📍' }
+      { text: 'East-In Marine Freight Pvt Ltd. Office G -1 , Plot No D3, Sect 14,CBD Belapur, Navi Mumbai 400614 ', path: 'https://maps.app.goo.gl/hc5m9sEusrPtciQJA', icon: '📍' }
     ]
   };
 
@@ -127,7 +127,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-sm">
-          <p>&copy; {currentYear} East-In Marine Freight. All rights reserved.</p>
+          <p>&copy; {currentYear} East-In Marine Freight Pvt Ltd. All rights reserved.</p>
         </div>
       </div>
     </footer>

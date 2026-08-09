@@ -21,7 +21,7 @@ const ContactInfo = () => {
               <FaMapMarkerAlt className="text-blue-600 text-2xl" />
             </div>
             <h3 className="text-xl font-semibold text-gray-900 mb-2">Address</h3>
-            <p className="text-gray-600">East-In Marine Freight,
+            <p className="text-gray-600">East-In Marine Freight Pvt Ltd.,
               Office G -1 , Plot No D3, Sect 14, 
               CBD Belapur, Navi Mumbai 400614.</p>
           </div>

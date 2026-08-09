@@ -23,7 +23,7 @@ const About = () => {
         viewport={{ amount: 0.2, once: true }}
         transition={{ duration: 0.7, ease: "easeOut" }}
       >
-        About East-In Marine Freight
+        About East-In Marine Freight Pvt Ltd.
       </motion.h2>
 
       {/* Content Grid */}

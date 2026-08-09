@@ -10,7 +10,7 @@ const Aboutus = () => {
         <div className="absolute inset-0 bg-gradient-to-b from-blue-900/30 to-blue-900/10"></div>
         <Container className="max-w-4xl mx-auto text-center relative z-10">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white">
-            About East-In Marine Freight
+            About East-In Marine Freight Pvt Ltd.
           </h1>
           <p className="text-xl md:text-2xl text-blue-100">
             Your Trusted Partner in Marine Logistics
